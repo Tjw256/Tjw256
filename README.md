@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="T. Web development, AI automation, hardware and video." />
+</p>
 
-<!--
-**Tjw256/Tjw256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Tjw256?tab=repositories">Projects</a> &nbsp; · &nbsp;
+  <a href="https://www.youtube.com/@Channel_01_T">YouTube</a>
+</p>
 
-Here are some ideas to get you started:
+### Hey, I'm T.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build local AI tools, self-hosted apps and workflows for coding agents. I also test PC hardware and edit video.
+
+I design the systems and make the architecture decisions. AI agents write much of the code. I review, test and refine what we ship.
+
+### Languages used in my projects
+
+TypeScript · JavaScript · Python · C# · Kotlin · Java · Swift · Dart · Rust · C++  
+SQL · Shell · PowerShell · Windows batch  
+HTML · CSS
+
+### Tools I work with
+
+`llama.cpp` · `Ollama` · `MCP` · `Claude Code` · `Codex`  
+`Docker` · `PostgreSQL` · `Linux`  
+`DaVinci Resolve` · `Remotion` · `FFmpeg`
